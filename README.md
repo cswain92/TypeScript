@@ -1,2 +1,2 @@
 # TypeScript
-Typescript related examples
+Typescript related examples with OOPS concept
